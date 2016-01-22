@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[seanleman]]></title>
         <description><![CDATA[seanleman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/seanleman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 18:31:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 18:34:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/seanleman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>SLIM JIM:  TRUCKER</p>]]></description>
-            <link>undefined97f1700a-857e-4591-9217-58110a4bbb04/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/345d1207-db0d-4d64-bdfc-7fb24020541c.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/seanleman/97f1700a-857e-4591-9217-58110a4bbb04/index.html</link>
             <guid isPermaLink="false">97f1700a-857e-4591-9217-58110a4bbb04</guid>
-            <pubDate>Fri, 22 Jan 2016 18:31:17 GMT</pubDate>
+            <pubDate>Fri, 22 Jan 2016 18:34:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
